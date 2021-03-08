@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1608309519 source:d:\mati\programy\moje programy\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1608309566 source:d:\mati\programy\moje programy\test\wejscie.c
+	<stdio.h>
+	<stdlib.h>
+	"wejscie.h"
+
+1608307781 d:\mati\programy\moje programy\test\wejscie.h
+
+1608307944 d:\mati\programy\moje programy\test\wejscie.c
+	<stdio.h>
+	<stdlib.h>
+	"wejscie.h"
+
+1608308183 d:\mati\programy\moje programy\test\dzialania.c
+	<stdio.h>
+	<stdlib.h>
+	"dzialania.h"
+	"wejscie.h"
+
+1608307410 d:\mati\programy\moje programy\test\dzialania.h
+
+1608309583 source:d:\mati\programy\moje programy\test\dzialania.c
+	<stdio.h>
+	<stdlib.h>
+	"dzialania.h"
+
+1608308442 d:\mati\programy\moje programy\test\main.h
+	"wejscie.h"
+	"dzialania.h"
+
